@@ -6,3 +6,5 @@
 
 我正在学习 Git 和 GitHub。
 
+我正在学习使用git分支和 pulll request
+
